@@ -15,8 +15,8 @@ jobs:
     steps:
       - checkout
       - run:
-          name: "iam hero2 "
-          command: "echo Hello, hero2"
+          name: "iam hero5 "
+          command: "echo Hello, hero5"
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
