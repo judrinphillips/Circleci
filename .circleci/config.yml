@@ -15,7 +15,7 @@ jobs:
     steps:
       - checkout
       - run:
-          name: "iam judrin"
+          name: "iam judrin phillips"
           command: "echo Hello, judrin!"
 
 # Invoke jobs via workflows
